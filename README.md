@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VenusCodes
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning CSE
+- 🌱 I’m currently a CSE student
 - 💞️ I’m looking to collaborate on amazing projects that i can help on 
 - 📫 How to reach me venuspaneliya25@gmail.com or venuspaneliyacod@gmail.com
 
