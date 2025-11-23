@@ -1,126 +1,49 @@
-# Hi, I'm Venus Paneliya 👋
+# Hi there, I’m Venus Paneliya 👋  
+**Remote-First MERN Stack Developer (React · Node.js · PostgreSQL/MongoDB) | IST/GMT+5 : 30 | Available for US/EU timezone overlap**
 
-### Full-Stack MERN Developer | Project Manager
-
-With a **Bachelor's degree in Computer Science & Engineering (9.29 CGPA)** and hands-on professional experience, I build and deploy robust, full-stack web applications. I specialize in the MERN stack and have delivered high-impact solutions across **Fintech, Warehouse Management (WMS), and Gaming** sectors. My expertise spans from architecting backend systems with Node.js to creating dynamic user interfaces with React and Next.js.
-
----
-
-### 🎯 Career Focus & Goals:
-
-*   🔭 **Actively seeking** full-time **Software Engineer | MERN Stack Developer** roles at innovative, product-based companies, with a strong interest in joining a **MAANG-level** organization.
-*   🌱 Sharpening my problem-solving skills by consistently practicing **Data Structures and Algorithms**. Follow my journey at **#100DaysOfDSA**!
-*   💡 Passionate about system design, clean code architecture, and leveraging technology to solve real-world business problems.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-VenusPaneliya-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/venus-paneliya/)  
+[![Email](https://img.shields.io/badge/Email-venus.paneliya@gmail.com-D14836?style=flat&logo=gmail)](mailto:venus.paneliya@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-VenusCodes-181717?style=flat&logo=github)](https://github.com/VenusCodes)  
 
 ---
 
-### 💼 Work Experience
-
-*   **Fullstack MERN Developer** @ *[Zion Elira](https://zionelira.com/)* <br/>*Feb 2025 – Present*
-*   **Senior Software Analyst** @ *[Quirkbees](https://quirkbeestech.in/)* <br/>*Oct 2024 – Feb 2025*
-*   **Sr. Software Developer** @ *[Logix Built Solutions Pvt. Ltd](https://logixbuilt.com/)* <br/>*Aug 2023 – Sep 2023*
-*   **Software Developer** @ *[Logix Built Solutions Pvt. Ltd](https://logixbuilt.com/)* <br/>*Feb 2023 – Aug 2023*
-*   **Summer Intern** @ *[Inkey IT Solutions Pvt Ltd.](https://www.inkeysolutions.com/)* <br/>*Jun 2022 – Jul 2022*
----
-
-### 🚀 Featured Professional & Personal Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Fintech Insurance Platform for SMEs</h3>
-      <div align="center">
-        <img src="https://i.imgur.com/vHq4gYg.png" width="400" alt="Fintech Project Illustration">
-        <p>Developed a user-friendly insurance platform for small businesses, integrating multiple third-party services for a seamless quote-to-policy workflow.</p>
-        <b>Highlights:</b>
-        <ul>
-          <li>Engineered integrations with a major <b>Payment Gateway</b> and multiple <b>Third-Party Insurance APIs</b> for quote generation.</li>
-          <li>Implemented a robust, domain-based authentication system for unified user sessions across independent sub-domains.</li>
-        </ul>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">High-Traffic Online Gaming Platform</h3>
-      <div align="center">
-        <img src="https://i.imgur.com/uT25E35.png" width="400" alt="Gaming Project Illustration">
-        <p>Played a key role in developing a scalable gaming platform, focusing on secure transaction processing and core module development.</p>
-        <b>Highlights:</b>
-        <ul>
-            <li>Led the secure integration of major payment gateways like <b>PayPal</b> and <b>Authorize.net</b>, enhancing user trust.</li>
-            <li>Contributed to core game functionalities, optimizing performance and user interaction to boost player retention.</li>
-        </ul>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Financial Management SaaS for SMEs</h3>
-      <div align="center">
-        <img src="https://i.imgur.com/4gW5V1C.png" width="400" alt="SaaS Project Illustration">
-        <p>Contributed to the MVP of an all-in-one money management solution designed to streamline billing, invoicing, and payments for businesses.</p>
-        <b>Highlights:</b>
-        <ul>
-          <li>Developed key modules including payroll management, third-party service integrations, and credit line management.</li>
-          <li>Helped build a comprehensive platform to simplify complex financial operations for small and medium-sized enterprises.</li>
-        </ul>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Ink-Hive | Personal E-commerce Project</h3>
-      <div align="center">
-        <a href="https://ink-hive.vercel.app/" target="_blank"><img src="https://i.imgur.com/gK2D3x4.png" width="400" alt="Ink-Hive Project Screenshot"></a>
-        <p>
-            <a href="https://github.com/VenusCodes/Ink-Hive" target="_blank">
-                <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code Repository">
-            </a>
-            <a href="https://ink-hive.vercel.app/" target="_blank">
-                <img src="https://img.shields.io/badge/Live-007ACC?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
-            </a>
-        </p>
-        <p>A full-stack e-commerce app for a printing service, built from scratch with a feature-rich admin dashboard and real-time order tracking.</p>
-        <b>Highlights:</b>
-        <ul>
-            <li>Full-stack development using the MERN stack and <b>Redux Toolkit</b> for state management.</li>
-            <li>Implemented real-time updates and notifications using <b>Socket.io</b>.</li>
-        </ul>
-      </div>
-    </td>
-  </tr>
-</table>
+## 🧭 About Me  
+I’m a full-stack MERN developer with a passion for building **production-ready web applications** that scale for global users. With hands-on experience in React, Next.js, Node.js/Express and PostgreSQL (Neon) or MongoDB, I’ve delivered solutions in the FinTech, Gaming and SaaS domains.  
+I operate from India (IST /GMT+5 : 30) and am fully available to sync with US/EU teams — remote-first mindset, async collaboration and clean code are part of my daily workflow.
 
 ---
 
-### 💻 Tech Stack & Tools
+## 💼 What I Do  
+- Design and build robust front-ends using **React / Next.js**, with SSR/CSR strategies, responsive UI and clean state-management.  
+- Develop scalable back-ends in **Node.js / Express**, architecting REST or GraphQL APIs, integrating databases, video services and auth flows.  
+- Use **PostgreSQL (Neon)** or **MongoDB** for data modelling, optimising queries, structuring schemas and implementing major features including video streaming.  
+- Implement **authentication & access control** (BetterAuth, OAuth), RBAC (learner/instructor/admin), and web-based video streaming/storage using S3/CloudFront or similar.  
+- Deploy applications via CI/CD pipelines (GitHub Actions, Docker), ensure remote monitoring/logging, and support distributed teams with documentation and async workflows.
 
-**Frontend:** `React` `Next.js` `JavaScript (ES6+)` `TypeScript` `HTML5` `CSS3` `Socket.io`
+---
+## 🚩 Highlight Projects  
+Here are some of the key projects I’d like you to check out:
 
-**UI Libraries:** `Material-UI (MUI)` `Tailwind CSS` `Ant Design` `Bootstrap`
+| Project | Problem / Who | Solution | Tech Stack |
+|---------|--------------|----------|-----------|
+| **[venusLMS](https://github.com/VenusCodes/venusLMS)** | Edu-tech organisations need a modern LMS supporting video lessons, quizzes & certifications | Full-stack web app built with Next.js frontend, Node.js/Express backend, PostgreSQL via Neon, BetterAuth for auth, and video streaming/storage integration | React · Next.js · Node.js · Express · PostgreSQL (Neon) · BetterAuth · S3/Streaming |
+| **FinTech Insurance Platform (Private / see upon request)** | SME-focused insurers need a quote-to-policy web workflow | Developed core modules including auth, payments, API integration for full-stack SaaS | React · Node.js · Express · MongoDB/PostgreSQL |
+| **Creator-Community Platform (Private / see upon request)** | Coaches & independent creators need a branded platform for membership, courses & community | Built a scalable platform enabling course modules, membership tiers, community chat, payments & analytics | React · Next.js · Node.js · Express · MongoDB/PostgreSQL |
+| **UGC / Branded Video SaaS (Private / see upon request)** | Marketing teams need to collect and auto-produce branded user-generated video/testimonial content at scale | Developed backend microservices & frontend tooling for templated video uploads, processing & cloud delivery | Node.js · Express · React · AWS S3/CloudFront · Video-Pipeline |
 
-**Backend:** `Node.js` `Express.js`
+*For any of the private/contract-based projects, feel free to reach out for more details.*
+---
 
-**Databases:** `MongoDB` `MySQL` `PostgreSQL` `Redis`
-
-**Tools & Platforms:** `Git` `GitHub` `Postman` `Jira` `VS Code` `Vercel`
+## ⚡ Why Work With Me?  
+- **Remote-First & Global Mindset**: Equipped to work IST hours with full overlap to US/EU teams.  
+- **Production-Ready Stack**: Bringing end-to-end development from code to deployment.  
+- **Results-Oriented**: I focus on building business-value features (video, analytics, auth) not just prototypes.  
+- **Async Collaboration**: Experienced in distributed teams, using Slack/Jira/Notion, writing clean documentation and hitting sprint goals.  
+- **Continuous Improvement**: I maintain an active GitHub portfolio with recent meaningful commits, tests and CI workflows.
 
 ---
 
-### 🎓 Education
+## 📬 Let’s Connect  
+If you’re hiring a remote MERN developer for your product or startup, let’s connect!  
+Feel free to drop me a message via LinkedIn or send an email — I’d love to contribute to your product’s success.
 
-*   **B.E. in Computer Science & Engineering** (9.29 CGPA)
-    *   *R.N.G Patel Institute Of Technology, Bardoli, India*
-
----
-
-### 🌐 Let's Connect:
-
-<p align="left">
-<a href="https://www.linkedin.com/in/venus-paneliya-4b4a1b1aa/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="venus-paneliya"/></a>
-<a href="https://venuspaneliya.live/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-D4374D?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:venuspaneliya25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VenusCodes&theme=monokai&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VenusCodes&theme=monokai&hide_border=true" alt="GitHub Streak">
-</p>
