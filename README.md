@@ -2,7 +2,8 @@
 **Remote-First MERN Stack Developer (React · Node.js · PostgreSQL/MongoDB) | IST/GMT+5 : 30 | Available for US/EU timezone overlap**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-VenusPaneliya-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/venus-paneliya/)  
-[![Email](https://img.shields.io/badge/Email-venus.paneliya@gmail.com-D14836?style=flat&logo=gmail)](mailto:venus.paneliya@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-venus.paneliya@gmail.com-D14836?style=flat&logo=gmail)](mailto:venuspaneliya25@gmail.com)    
+[![Email](https://img.shields.io/badge/Email-venus.paneliya@gmail.com-D14836?style=flat&logo=gmail)](mailto:venuspaneliyacod@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-VenusCodes-181717?style=flat&logo=github)](https://github.com/VenusCodes)  
 
 ---
