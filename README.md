@@ -12,6 +12,18 @@
 I’m a full-stack MERN developer and technical lead with a passion for building **production-ready web applications** and managing remote teams effectively. With hands-on experience in React, Next.js, Node.js/Express and PostgreSQL (Neon) or MongoDB, I’ve delivered solutions in FinTech, Gaming and SaaS domains — often working directly with clients, coordinating distributed teams and driving sprint-based deliverables.  
 Operating from India (IST/GMT+5 : 30), I’m fully dedicated to working with US/EU teams — bringing remote-first mindset, asynchronous collaboration setup, and clean code practices to the table.
 
+### 🌍 Remote & Distributed Team Experience  
+- Led remote development teams across India, including client-call scheduling, async GitHub PR reviews and sprint management.  
+- Acted as **Technical Point of Contact** bridging clients, product and engineering through Slack, Zoom, Jira/Notion.  
+- Built and maintained global-ready architectures and cross-timezone delivery pipelines.  
+ 
+### 🛠 Advanced Tech & Scale  
+- 🟦 **TypeScript**: Strong usage across front-end and back-end modules including strict mode, typings and reusable interfaces.  
+- 🧪 **Testing & CI/CD**: Implemented unit tests (Jest), integration/e2e tests (Playwright/Cypress) and GitHub Actions pipelines in production apps.  
+- 🔄 **GraphQL & REST**: Designed and consumed GraphQL APIs in recent projects while maintaining REST endpoints for legacy modules.  
+- ⚙️ **Production Architecture**: Designed scalable microservices for high-concurrency flows, video streaming modules, and globally-distributed user bases.  
+
+
 ---
 
 ## 💼 What I Do  
@@ -39,7 +51,8 @@ Here are some of the key projects I’d like you to check out:
 ---
 
 ## ⚡ Why Work With Me?  
-- **Remote-First & Global Mindset**: Skilled in leading distributed teams, asynchronous workflows and cross-time-zone collaboration (IST <-> US/EU).  
+- **Remote-First & Global Mindset**: Skilled in leading distributed teams, asynchronous workflows and cross-time-zone collaboration (IST <-> US/EU). 
+    - Handled client communication, led technical discussions, bridging business & engineering for remote teams.  
 - **Technical Leadership & Client Communication**: Acted as technical lead and point of contact for multiple clients, managed deliverables, sprint demos and stakeholder communication.  
 - **Production-Ready Stack**: From architecture to deployment — full-stack development on modern MERN stack plus cloud/DevOps injection into delivery.  
 - **Results-Oriented**: I focus on building business-value features (video streaming, analytics, auth) and not just prototypes — delivering real results for clients and users.  
