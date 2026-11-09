@@ -1,65 +1,42 @@
-# Hi there, I’m Venus Paneliya 👋  
-**Remote-First MERN Stack Developer & Technical Lead (React · Node.js · PostgreSQL/MongoDB) | IST/GMT+5 : 30 | Available for US/EU timezone overlap**
+<img src="./banner.png" alt="Venus Paneliya, senior full-stack engineer. AI features and payments in production." width="100%" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-VenusPaneliya-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/venus-paneliya/)  
-[![Email](https://img.shields.io/badge/Email-venuspaneliya25@gmail.com-D14836?style=flat&logo=gmail)](mailto:venuspaneliya25@gmail.com)  
-[![Email](https://img.shields.io/badge/Email-venuspaneliyacod@gmail.com-D14836?style=flat&logo=gmail)](mailto:venuspaneliyacod@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-VenusCodes-181717?style=flat&logo=github)](https://github.com/VenusCodes)  
+### Senior full-stack engineer. MERN, Next.js, TypeScript.
 
----
+I build SaaS that holds up with real users: tenant isolation, payments that don't go missing, and AI features with a cost cap. 3+ years in production. I've led a team of 5 developers.
 
-## 🧭 About Me  
-I’m a full-stack MERN developer and technical lead with a passion for building **production-ready web applications** and managing remote teams effectively. With hands-on experience in React, Next.js, Node.js/Express and PostgreSQL (Neon) or MongoDB, I’ve delivered solutions in FinTech, Gaming and SaaS domains — often working directly with clients, coordinating distributed teams and driving sprint-based deliverables.  
-Operating from India (IST/GMT+5 : 30), I’m fully dedicated to working with US/EU teams — bringing remote-first mindset, asynchronous collaboration setup, and clean code practices to the table.
+**[venuspaneliya.com](https://venuspaneliya.com)** · [LinkedIn](https://www.linkedin.com/in/venus-paneliya) · [venuspaneliya25@gmail.com](mailto:venuspaneliya25@gmail.com)
 
-### 🌍 Remote & Distributed Team Experience  
-- Led remote development teams across India, including client-call scheduling, async GitHub PR reviews and sprint management.  
-- Acted as **Technical Point of Contact** bridging clients, product and engineering through Slack, Zoom, Jira/Notion.  
-- Built and maintained global-ready architectures and cross-timezone delivery pipelines.  
- 
-### 🛠 Advanced Tech & Scale  
-- 🟦 **TypeScript**: Strong usage across front-end and back-end modules including strict mode, typings and reusable interfaces.  
-- 🧪 **Testing & CI/CD**: Implemented unit tests (Jest), integration/e2e tests (Playwright/Cypress) and GitHub Actions pipelines in production apps.  
-- 🔄 **GraphQL & REST**: Designed and consumed GraphQL APIs in recent projects while maintaining REST endpoints for legacy modules.  
-- ⚙️ **Production Architecture**: Designed scalable microservices for high-concurrency flows, video streaming modules, and globally-distributed user bases.  
-
+Open to full-time remote roles and long-term contracts.
 
 ---
 
-## 💼 What I Do  
-- Lead and mentor front-end & back-end development using **React / Next.js**, ensuring responsive UI, SSR/CSR strategies, and component-driven architecture.  
-- Architect and build scalable back-ends in **Node.js / Express** — structuring REST/GraphQL APIs, integrating databases, cloud services, video streaming, and third-party APIs.  
-- Execute data modelling with **PostgreSQL (Neon)** or **MongoDB**, optimize queries, design schemas, ensure performance at scale.  
-- Manage authentication & access control frameworks (BetterAuth, OAuth) with RBAC (learner/instructor/admin) and implement cloud-based video storage/streaming pipelines (S3/CloudFront or similar).  
-- Drive DevOps & remote delivery: CI/CD pipelines (GitHub Actions, Docker), remote monitoring/logging, asynchronous sprint workflows, Slack/Zoom/Jira communication, documentation and client-facing updates.  
-- Serve as **Technical Point of Contact** with clients and stakeholders — lead requirements gathering, sprint planning, demo presentations and post-deployment support.
+### Shipped
 
----
+| Project | Problem | What I did | Result |
+| --- | --- | --- | --- |
+| [Creator community platform](https://venuspaneliya.com/work/creator-community-platform/) | Dropped Stripe webhooks meant missed creator payouts | Moved payout state into an owned ledger with verified webhooks, retries and alerts | $10K+ paid out a month, 0 missed since launch |
+| [AI form builder](https://venuspaneliya.com/work/ai-form-builder/) | Building forms field by field was slow, and AI output had to be valid every time | OpenAI prompt to strict JSON schema, validated on the server, with row-level security and token caps | One sentence to a working form in under 10s |
+| [Video pipeline on AWS](https://venuspaneliya.com/work/video-pipeline-aws/) | Every video submission was handled by hand | Serverless S3, Lambda and SQS pipeline with retries and dead-letter queues | 60% less manual editing for 1,000+ users |
+| [Insurance quote engine](https://venuspaneliya.com/work/insurance-quote-engine/) | Quotes took 10+ minutes and buyers dropped out | Redis caching, parallel insurer API calls, PostgreSQL index tuning | Under 2 minutes, cached under 30s |
 
-## 🚩 Highlight Projects  
-Here are some of the key projects I’d like you to check out:
+Client code is private. Each case study shows the problem, the decision and the result. The source of my portfolio site is public: [venuspaneliya.com](https://github.com/VenusCodes/venuspaneliya.com).
 
-| Project | Problem / Who | Solution | Tech Stack |
-|---------|--------------|----------|-----------|
-| **[venusLMS](https://github.com/VenusCodes/venusLMS)** | Edu-tech organisations need a modern LMS supporting video lessons, quizzes & certifications | Full-stack web app built with Next.js frontend, Node.js/Express backend, PostgreSQL via Neon, BetterAuth for auth, and video streaming/storage integration | React · Next.js · Node.js · Express · PostgreSQL (Neon) · BetterAuth · S3/Streaming |
-| **FinTech Insurance Platform (Private / see upon request)** | SME-focused insurers need a quote-to-policy web workflow | Developed and managed core modules including auth, payments, API integration for full-stack SaaS, coordinated remote dev team and client sprints | React · Node.js · Express · MongoDB/PostgreSQL |
-| **Creator-Community Platform (Private / see upon request)** | Coaches & independent creators need a branded platform for membership, courses & community | Led architecture and delivery of scalable platform supporting membership tiers, community chat, payments & analytics; engaged directly with creators and stakeholders | React · Next.js · Node.js · Express · MongoDB/PostgreSQL |
-| **UGC / Branded Video SaaS (Private / see upon request)** | Marketing teams need to collect and auto-produce branded user-generated video/testimonial content at scale | Oversaw design and implementation of backend microservices & frontend tooling for templated video uploads, processing & cloud delivery; managed client demos and remote QA | Node.js · Express · React · AWS S3/CloudFront · Video-Pipeline |
+### AI work
 
-*For any of the private/contract-based projects, feel free to reach out for more details or code samples.*
+OpenAI and Claude APIs, RAG, agents and MCP, built on the same Node.js and MongoDB stack, with token caps so AI cost stays flat. Public examples are coming to this profile.
 
----
+### Stack
 
-## ⚡ Why Work With Me?  
-- **Remote-First & Global Mindset**: Skilled in leading distributed teams, asynchronous workflows and cross-time-zone collaboration (IST <-> US/EU). 
-    - Handled client communication, led technical discussions, bridging business & engineering for remote teams.  
-- **Technical Leadership & Client Communication**: Acted as technical lead and point of contact for multiple clients, managed deliverables, sprint demos and stakeholder communication.  
-- **Production-Ready Stack**: From architecture to deployment — full-stack development on modern MERN stack plus cloud/DevOps injection into delivery.  
-- **Results-Oriented**: I focus on building business-value features (video streaming, analytics, auth) and not just prototypes — delivering real results for clients and users.  
-- **Continuous Improvement**: I maintain an active portfolio with meaningful commits, tests, CI workflows and documentation — staying current, scalable and remote-ready.
+**Frontend:** `JavaScript` `TypeScript` `React` `Next.js` `Redux Toolkit` `HTML5` `CSS3` `Tailwind CSS`
 
----
+**Backend:** `Node.js` `Express` `REST APIs` `GraphQL` `Socket.io` `Webhooks` `Strapi` `Microservices` `OAuth / RBAC`
 
-## 📬 Let’s Connect  
-If you’re hiring a remote MERN developer for your product or startup — let’s chat! I’d love to contribute to your team’s success and help scale your product to global users.
+**Data:** `MySQL` `PostgreSQL` `MongoDB` `DynamoDB` `Supabase` `Redis` `Firebase`
 
+**Cloud:** `AWS Lambda` `SQS` `S3` `EC2` `Google Cloud` `Docker` `GitHub Actions` `Vercel` `Netlify` `Heroku`
+
+**Mobile:** `React Native` `Capacitor` `iOS` `Android` `Push notifications` `Maps and location`
+
+**AI:** `OpenAI API` `Claude API` `RAG` `Agents` `MCP` `tiktoken` `Cursor`
+
+**Payments:** `Stripe Connect` `PayPal` `Authorize.net`
